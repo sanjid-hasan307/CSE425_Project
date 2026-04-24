@@ -1,0 +1,22 @@
+{
+  "num_files_parsed": 40,
+  "min_roll_length": 820,
+  "max_roll_length": 17712,
+  "avg_roll_length": 4684.625,
+  "note_density": 0.034861672669649124,
+  "active_pitches": 85,
+  "avg_token_length": 20875.55,
+  "max_token_length": 69901,
+  "Total roll segments": 5799,
+  "Train roll segments": 4639,
+  "Test roll segments": 1160,
+  "Total token segments": 26036,
+  "Train token segments": 20828,
+  "Test token segments": 5208,
+  "Window (steps)": 64,
+  "Steps per bar": 16,
+  "midi_dir": "data\\raw\\maestro",
+  "out_dir": "data\\processed\\maestro",
+  "train_ratio": 0.8,
+  "seed": 42
+}
